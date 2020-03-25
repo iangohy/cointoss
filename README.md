@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Flip the coin for heads or tails. Choices of all third series Singapore coins available!
 
 ## Available Scripts
 

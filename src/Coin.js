@@ -47,7 +47,7 @@ export class Coin extends React.Component {
     })
     return(
       <div className="coin-widget">
-        <div className="coin">
+        <div className="coin" onClick={() => this.handleClick()}>
           <div className={this.state.div}>
             <Coinface val={this.state.val}/>
           </div>

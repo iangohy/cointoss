@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/cointoss/static/css/main.b675c773.chunk.css",
-    "main.js": "/cointoss/static/js/main.b6e813ce.chunk.js",
-    "main.js.map": "/cointoss/static/js/main.b6e813ce.chunk.js.map",
-    "runtime-main.js": "/cointoss/static/js/runtime-main.f62b64d2.js",
-    "runtime-main.js.map": "/cointoss/static/js/runtime-main.f62b64d2.js.map",
-    "static/js/2.5e5d1c5a.chunk.js": "/cointoss/static/js/2.5e5d1c5a.chunk.js",
-    "static/js/2.5e5d1c5a.chunk.js.map": "/cointoss/static/js/2.5e5d1c5a.chunk.js.map",
-    "index.html": "/cointoss/index.html",
-    "precache-manifest.63ae8b900ad8533df3166c6250c82f12.js": "/cointoss/precache-manifest.63ae8b900ad8533df3166c6250c82f12.js",
-    "service-worker.js": "/cointoss/service-worker.js",
-    "static/css/main.b675c773.chunk.css.map": "/cointoss/static/css/main.b675c773.chunk.css.map",
-    "static/js/2.5e5d1c5a.chunk.js.LICENSE.txt": "/cointoss/static/js/2.5e5d1c5a.chunk.js.LICENSE.txt",
-    "static/media/TS10cb.png": "/cointoss/static/media/TS10cb.f7128e0e.png",
-    "static/media/TS1d.png": "/cointoss/static/media/TS1d.ed9f816b.png",
-    "static/media/TS1db.png": "/cointoss/static/media/TS1db.1769fff0.png",
-    "static/media/TS20c.png": "/cointoss/static/media/TS20c.086c271e.png",
-    "static/media/TS20cb.png": "/cointoss/static/media/TS20cb.f3c530f7.png",
-    "static/media/TS50c.png": "/cointoss/static/media/TS50c.faa1fba1.png",
-    "static/media/TS50cb.png": "/cointoss/static/media/TS50cb.2c74274c.png",
-    "static/media/TS5cb.png": "/cointoss/static/media/TS5cb.664c2253.png"
+    "main.css": "/static/css/main.b675c773.chunk.css",
+    "main.js": "/static/js/main.7ed52b71.chunk.js",
+    "main.js.map": "/static/js/main.7ed52b71.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e5067fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e5067fd.js.map",
+    "static/js/2.5e5d1c5a.chunk.js": "/static/js/2.5e5d1c5a.chunk.js",
+    "static/js/2.5e5d1c5a.chunk.js.map": "/static/js/2.5e5d1c5a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1e84f45d3b1f77a1edd2ddaa37b7c613.js": "/precache-manifest.1e84f45d3b1f77a1edd2ddaa37b7c613.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b675c773.chunk.css.map": "/static/css/main.b675c773.chunk.css.map",
+    "static/js/2.5e5d1c5a.chunk.js.LICENSE.txt": "/static/js/2.5e5d1c5a.chunk.js.LICENSE.txt",
+    "static/media/TS10cb.png": "/static/media/TS10cb.f7128e0e.png",
+    "static/media/TS1d.png": "/static/media/TS1d.ed9f816b.png",
+    "static/media/TS1db.png": "/static/media/TS1db.1769fff0.png",
+    "static/media/TS20c.png": "/static/media/TS20c.086c271e.png",
+    "static/media/TS20cb.png": "/static/media/TS20cb.f3c530f7.png",
+    "static/media/TS50c.png": "/static/media/TS50c.faa1fba1.png",
+    "static/media/TS50cb.png": "/static/media/TS50cb.2c74274c.png",
+    "static/media/TS5cb.png": "/static/media/TS5cb.664c2253.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f62b64d2.js",
+    "static/js/runtime-main.7e5067fd.js",
     "static/js/2.5e5d1c5a.chunk.js",
     "static/css/main.b675c773.chunk.css",
-    "static/js/main.b6e813ce.chunk.js"
+    "static/js/main.7ed52b71.chunk.js"
   ]
 }
